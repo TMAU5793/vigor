@@ -1,0 +1,84 @@
+$Iconic-regular: 'FCIconicRegular';
+$Iconic-bold: 'FCIconicBold';
+$c-orange: #cbac5e;
+$c-white-gray: #f5f5f5;
+html,
+body {
+    font-family: $Iconic-regular;
+    font-size: 1.2rem;
+    line-height: 1.25rem;
+}
+
+img {
+    width: 100%;
+}
+
+.ff-regular {
+    font-family: $Iconic-regular;
+}
+
+.ff-bold {
+    font-family: $Iconic-bold;
+}
+
+.btn-visite {
+    border: 1px solid $c-orange;
+    background: transparent;
+    padding: .25rem 1rem;
+    font-family: $Iconic-bold;
+    font-size: 1rem;
+    &:hover {
+        background-color: $c-orange;
+        box-shadow: 3px 3px 0 #b59954;
+    }
+}
+
+.bg-w-g {
+    background-color: $c-white-gray;
+}
+
+.bg-orange {
+    background-color: $c-orange;
+}
+
+.p-tb-3 {
+    padding: 3rem 0;
+}
+
+.p-tb-1_5 {
+    padding: 1.5rem 0;
+}
+
+.home-container {
+    .banner {
+        .banner-text {
+            max-width: 600px;
+        }
+        .logo {
+            position: absolute;
+            top: 3rem;
+            left: 3rem;
+            img {
+                max-width: 100px;
+            }
+        }
+    }
+    .home-body {
+        .col-md-6 {
+            padding: 0 1.5rem;
+        }
+    }
+}
+
+.footer {
+    .link-footer {
+        position: relative;
+        a {
+            text-decoration: none;
+            color: #000;
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+    }
+}

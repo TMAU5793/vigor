@@ -1,0 +1,57 @@
+html,
+body {
+  font-family: "FCIconicRegular";
+  font-size: 1.2rem;
+  line-height: 1.25rem; }
+
+img {
+  width: 100%; }
+
+.ff-regular {
+  font-family: "FCIconicRegular"; }
+
+.ff-bold {
+  font-family: "FCIconicBold"; }
+
+.btn-visite {
+  border: 1px solid #cbac5e;
+  background: transparent;
+  padding: .25rem 1rem;
+  font-family: "FCIconicBold";
+  font-size: 1rem; }
+  .btn-visite:hover {
+    background-color: #cbac5e;
+    box-shadow: 3px 3px 0 #b59954; }
+
+.bg-w-g {
+  background-color: #f5f5f5; }
+
+.bg-orange {
+  background-color: #cbac5e; }
+
+.p-tb-3 {
+  padding: 3rem 0; }
+
+.p-tb-1_5 {
+  padding: 1.5rem 0; }
+
+.home-container .banner .banner-text {
+  max-width: 600px; }
+.home-container .banner .logo {
+  position: absolute;
+  top: 3rem;
+  left: 3rem; }
+  .home-container .banner .logo img {
+    max-width: 100px; }
+.home-container .home-body .col-md-6 {
+  padding: 0 1.5rem; }
+
+.footer .link-footer {
+  position: relative; }
+  .footer .link-footer a {
+    text-decoration: none;
+    color: #000; }
+    .footer .link-footer a:hover {
+      text-decoration: underline; }
+
+/*# sourceMappingURL=main.css.map */
