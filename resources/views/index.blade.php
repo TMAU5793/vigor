@@ -5,7 +5,9 @@
 @section('content')
     <div class="home-container">
         <section class="banner position-relative">
-            <img src="{{ url('assets/images/banner.jpg') }}" alt="">
+            <div class="img-item">
+                <img src="{{ url('assets/images/banner.jpg') }}" alt="">
+            </div>
             <div class="logo">
                 <img src="{{ url('assets/images/logo-100.png') }}" alt="">
             </div>
@@ -73,7 +75,7 @@
                 </div>
             </div>
 
-            <div class="container p-tb-3">
+            <div class="container p-tb-3 ly-1-column">
                 <div class="item-box">
                     <div class="row">
                         <div class="col-md-6">

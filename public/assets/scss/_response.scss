@@ -1,0 +1,130 @@
+@include media-query(1600px){
+    .home-container {
+        .banner {
+            .logo {
+                top: 1rem;
+                left: 1rem;
+            }
+        }
+    }
+}
+
+@include media-query(1399px){
+    .home-container {
+        .banner {
+            .img-item{
+                img{
+                    height: 500px;
+                    object-fit: cover;
+                    object-position: left center;
+                }
+            }
+            .banner-text{
+                transform: none !important;
+                top: 6rem !important;
+            }
+            .logo {
+                left: 2.5rem;
+            }
+        }
+    }
+}
+
+@include media-query(1199px){
+    .home-container {
+        .banner {
+            .logo {
+                left: 2.25rem;
+            }
+            .banner-text{
+                max-width: 500px;
+            }
+        }
+    }
+}
+
+@include media-query(991px){
+    html,
+    body {
+        font-size: 1.15rem;
+        line-height: 1.2rem;
+    }
+    .home-container{
+        .banner .banner-text{
+            padding: 0;
+        }
+        .home-body{
+            .col-md-6{
+                padding: 0 .75rem;
+            }
+        }
+    }
+}
+
+@include media-query(767px){
+    .home-body{
+        .row{
+            .col-md-6:first-child{
+                margin-bottom: 3rem;
+            }
+        }
+        .ly-1-column{
+            .item-box{
+                padding: 0 .75rem;
+            }
+            .position-absolute{
+                position: static !important;
+                transform: none !important;
+            }
+            .row{
+                .col-md-6:first-child{
+                    margin-bottom: 1rem;
+                }
+            }
+        }
+    }
+
+    .footer{
+        .col-md-3{
+            .position-absolute{
+                position: static !important;
+                transform: none !important;
+            }
+            &:nth-last-child(1n+3){
+                margin-bottom: 1rem;
+            }
+        }
+    }
+}
+
+@include media-query(575px){
+    .container{
+        padding: 0 1.5rem !important;
+    }
+    .home-container .banner .banner-text{
+        max-width: 100%;
+        padding-right: 1.5rem;
+    }
+    .home-body{
+        .ly-1-column{
+            .item-box{
+                padding: 1.5rem 0;
+            }
+        }
+        .row .col-md-6:first-child {
+            margin-bottom: 1.5rem;
+        }
+    }
+    .footer .col-md-3:nth-last-child(1n+2) {
+        margin-bottom: .5rem;
+    }
+    .p-tb-3{
+        padding: 1.5rem 0;
+    }
+    .mt-5{
+        margin-top: 1.5rem !important;
+    }
+    .mb-5{
+        margin-bottom: 1.5rem !important;
+    }
+}
