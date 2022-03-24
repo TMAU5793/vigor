@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>@yield('title')</title>
+    <link rel="shortcut icon" href="{{ url('assets/images/favicon.png') }}" type="image/x-icon">
+    <meta property="og:image" content="{{ url('assets/images/share-img.jpg') }}"/>
     <link rel="stylesheet" href="{{ url('assets/bootstrap-5/css/bootstrap.min.css') }}">
     <link rel="stylesheet" href="{{ url('assets/fonts/FCIconic/stylesheet.css') }}">
     <link rel="stylesheet" href="{{ url('assets/css/main.css') }}">
