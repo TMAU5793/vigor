@@ -15,7 +15,7 @@
                 <div class="position-absolute top-50 translate-middle-y banner-text text-white">
                     <h1 class="ff-bold">Vigor Limited</h1>
                     <p>เป็นตัวแทนหนึ่งเดียวของภูมิภาคเอเชียตะวันออกเฉียงใต้ที่นำเข้าให้แบรนด์ ที่มีคุณภาพอย่าง Icelandic Glacial, ROYAL JELLY , Rejuvis MCT, Helix and Askur เราอยากมอบผลิตภัณฑ์คุณภาพระดับพรีเมี่ยมที่ดีที่สุด ในโลกให้กับคุณ</p>
-                    <p>Vigor Limited is the representative in Southeast Asia that imports quality brands like Icelandic Glacial Natural Mineral water from Iceland, Royal Jelly Dietary supplements from New Zealand , OEM for Rejuvis MCT , Helix 7 and Askur Yggdrasil. Our mission is to give you  best premium quality products of the world.</p>
+                    <p>Vigor Limited is a representative in Southeast Asia that imports quality brands like Icelandic Glacial Natural Mineral water from Iceland, Royal Jelly Dietary supplements from New Zealand , OEM for Rejuvis MCT , Helix 7 and Askur Yggdrasil form Iceland. Our mission is to give you  best premium quality products of the world.</p>
                 </div>
             </div>
         </section>
@@ -28,7 +28,7 @@
                             <img src="{{ url('assets/images/brand-1.jpg') }}" alt="">
                             <div class="desc mt-3">
                                 <p><span class="ff-bold">Icelandic Glacial™</span> ถูกกลั่นกรองอย่างช้า ๆ ผ่านชั้นหินลาวา เป็นเวลา 5,000 ปี มีค่า pH ที่เป็นที่ต้องการสูงกว่าปกติที่ 8.4 ทำให้เป็นน้ำด่างตามธรรมชาติ</p>
-                                <p class="ff-bold">Filtered slowly for 5,000 years through layers of lava rock, Icelandic Glacial™ possesses a highly desirable and uncommonly high pH of 8.4, making it naturally alkaline. Product made in and bottled  in Icelandic.</p>
+                                <p class="ff-bold">Filtered slowly for 5,000 years through layers of lava rock, Icelandic Glacial™ possesses a highly desirable and uncommonly high pH of 8.4, making it naturally alkaline. Product made in and bottled  in Iceland.</p>
                             </div>
                             <button class="btn-visite">Visit Website</button>
                         </div>
@@ -66,7 +66,7 @@
                                 <img src="{{ url('assets/images/brand-4.jpg') }}" alt="">
                                 <div class="desc mt-3">
                                     <p><span class="ff-bold">Helix  & Askur</span> ส่วนผสมที่ลงตัวของสุราคุณภาพสูงจากฝรั่งเศสและน้ำคุณภาพสูงจาก Icelandic Glacial Helix 7 และ Askur ได้รับความนิยม ค่า pH ที่สมดุลที่เหมาะสมที่ 7.4 ซึ่งไม่มีที่ไหนเคยทำมาก่อน ของการผสมผสานของสุราฝรั่งเศสและน้ำไอซ์แลนด์ ร่วมกันสร้าง DNA ของวอดก้าและจินระดับพรีเมียม</p>
-                                    <p class="ff-bold">With this perfect blend of high-quality spirit from France and high quality water Icelandic Glacial Helix 7 and Askur hits the optimal balanced pH of 7.4 This never before made, blend of French spirits and Icelandic water, together creates the DNA of this ultra premium vodka and gin. Product made in and bottled  in Icelandic .</p>
+                                    <p class="ff-bold">With this perfect blend of high-quality spirit from France and high quality water Icelandic Glacial Helix 7 and Askur hits the optimal balanced pH of 7.4 This never before made, blend of French spirits and Icelandic water, together creates the DNA of this ultra premium vodka and gin. Product made in and bottled  in Iceland .</p>
                                 </div>
                                 <button class="btn-visite">Visit Website</button>
                             </div>
@@ -87,7 +87,7 @@
                                     <span class="d-block"><strong class="ff-bold fs-2">VGR</strong> ได้แต่งตั้ง <strong class="ff-bold fs-2">Rejuvis</strong></span>
                                     <strong class="d-block ff-bold">เป็นผู้จัดจำหน่ายผลิตภัณฑ์ทั้งหมดแต่เพียงผู้เดียว</strong>
                                 </p>
-                                <p class="ff-bold">Rejuvis Co., Ltd. has been appointed as the exclusive distributor for Thailand and  Malaysia for our products</p>
+                                <p class="ff-bold">Rejuvis Co., Ltd. has been appointed as the exclusive distributor for Thailand for our products</p>
                                 <button class="btn-visite">Visit Website</button>
                             </div>
                         </div>
@@ -113,6 +113,8 @@
                         <div class="position-absolute top-50 translate-middle-y">
                             <div><strong class="ff-bold">Website : </strong><a href="http://www.vgr.co.th" target="_blank">www.vgr.co.th</a></div>
                             <div><strong class="ff-bold">Website : </strong><a href="http://www.rejuvis.co.th" target="_blank">www.rejuvis.co.th</a></div>
+                            <div><strong class="ff-bold">Website : </strong><a href="http://www.rejuvis.co.th/mctoil" target="_blank">www.rejuvis.co.th/mctoil</a></div>
+                            <div><strong class="ff-bold">Website : </strong><a href="http://www.rejuvis.co.th/helix7" target="_blank">www.rejuvis.co.th/helix7</a></div>
                         </div>
                     </div>
                     <div class="col-md-3 col-sm-6 link-footer">
