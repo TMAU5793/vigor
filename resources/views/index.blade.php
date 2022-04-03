@@ -87,7 +87,7 @@
                                     <span class="d-block"><strong class="ff-bold fs-2">VGR</strong> ได้แต่งตั้ง <strong class="ff-bold fs-2">Rejuvis</strong></span>
                                     <strong class="d-block ff-bold">เป็นผู้จัดจำหน่ายผลิตภัณฑ์ทั้งหมดแต่เพียงผู้เดียว</strong>
                                 </p>
-                                <p class="ff-bold">Rejuvis Co., Ltd. has been appointed as the exclusive distributor for Thailand for our products</p>
+                                <p class="ff-bold">Rejuvis Co., Ltd. has been appointed as the exclusive distributor at Thailand for our products</p>
                                 <button class="btn-visite">Visit Website</button>
                             </div>
                         </div>
