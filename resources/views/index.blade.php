@@ -13,9 +13,9 @@
             </div>
             <div class="container">
                 <div class="position-absolute top-50 translate-middle-y banner-text text-white">
-                    <h1 class="ff-bold">Vigor Limited</h1>
-                    <p>เป็นตัวแทนหนึ่งเดียวของภูมิภาคเอเชียตะวันออกเฉียงใต้ที่นำเข้าให้แบรนด์ ที่มีคุณภาพอย่าง Icelandic Glacial, ROYAL JELLY , Rejuvis MCT, Helix and Askur เราอยากมอบผลิตภัณฑ์คุณภาพระดับพรีเมี่ยมที่ดีที่สุด ในโลกให้กับคุณ</p>
-                    <p>Vigor Limited is a representative in Southeast Asia that imports quality brands like Icelandic Glacial Natural Mineral water from Iceland, Royal Jelly Dietary supplements from New Zealand , OEM for Rejuvis MCT , Helix 7 and Askur Yggdrasil form Iceland. Our mission is to give you  best premium quality products of the world.</p>
+                    <h1 class="ff-bold">Who We Are</h1>
+                    <p>บริษัทวิเกอ จำกัด ตัวแทนจำหน่ายน้ำแร่ธรรมชาติ Icelandic Glacial จากประเทศไอซ์แลนด์ ในภูมิภาคเอเชียตะวันออกเฉียงใต้ เป็นผู้ผลิตและจำหน่ายอาหารเสริม ROYAL JELLY ของแท้จากประเทศนิวซีแลนด์, สินค้าแบรนด์ดัง คุณภาพดีจากทั่วทุกมุมโลกเราจัดและสรรหามาให้พร้อม OEM ให้ทุกผลิตภัณฑ์, Helix7 วอดก้า และ Askur จิน เป็นอีกผลิตภัณฑ์คุณภาพระดับพรีเมี่ยมที่ดีที่สุดในโลก มาถึงแล้วพร้อมจำหน่าย</p>
+                    <p>Vigor Limited is a representative of Southeast Asia that imports quality brands like Icelandic Glacial Natural Mineral water from Iceland, Royal Jelly Dietary supplements from New Zealand , OEM for Rejuvis MCT , Helix7 and Askur Yggdrasil. Our mission is to give you best premium quality products of the world.</p>
                 </div>
             </div>
         </section>
@@ -27,10 +27,10 @@
                         <div class="item-box">
                             <img src="{{ url('assets/images/brand-1.jpg') }}" alt="">
                             <div class="desc mt-3">
-                                <p><span class="ff-bold">Icelandic Glacial™</span> ถูกกลั่นกรองอย่างช้า ๆ ผ่านชั้นหินลาวา เป็นเวลา 5,000 ปี มีค่า pH ที่เป็นที่ต้องการสูงกว่าปกติที่ 8.4 ทำให้เป็นน้ำด่างตามธรรมชาติ</p>
-                                <p class="ff-bold">Filtered slowly for 5,000 years through layers of lava rock, Icelandic Glacial™ possesses a highly desirable and uncommonly high pH of 8.4, making it naturally alkaline. Product made in and bottled  in Iceland.</p>
+                                <p>Icelandic Glacial™ ถูกกลั่นกรองอย่างช้า ๆ ผ่านชั้นหินลาวา เป็นเวลา 5,000 ปี มีค่า pH 8.4 เป็นน้ำด่างจากธรรมชาติแท้ๆ ที่เสริมสร้างความสมดุลย์ให้กับร่างกาย</p>
+                                <p class="ff-bold">Filtered slowly for 5,000 years through layers of lava rock, Icelandic Glacial™ possesses a highly desirable and uncommonly high pH of 8.4, making it naturally alkaline.</p>
                             </div>
-                            <button class="btn-visite">Visit Website</button>
+                            <a href="https://www.rejuvis.co.th/" class="btn-visite text-decoration-none text-dark" target="_blank">Visit Website</a>
                         </div>
                     </div>
 
@@ -38,10 +38,10 @@
                         <div class="item-box">
                             <img src="{{ url('assets/images/brand-2.jpg') }}" alt="">
                             <div class="desc mt-3">
-                                <p><span class="ff-bold">Royal Jelly Plus Avocado Oil,</span> Lecithin, Vitamin B6 and Vitamin E ผลิตในนิวซีแลนด์ ช่วยให้ผิวเรียบเนียนและกระจ่างใสขึ้นเพิ่มการผลิตคอลลาเจนในผิว และยังช่วยปกป้องผิวจากผลกระทบของรังสีอัลตราไวโอเลตจากดวงอาทิตย์</p>
+                                <p>Royal Jelly Plus Avocado Oil, Lecithin, Vitamin B6 and Vitamin E นมผึ้งแท้ๆ ผสมรวมกับน้ำมันอโวคาโด ผลิตในประเทศนิวซีแลนด์  เป็นสุดยอดอาหารเสริมที่ช่วยในเรื่องเสริมภูมิคุ้มกัน เสริมสร้างความแข็งแรงให้ผิวพรรณ</p>
                                 <p class="ff-bold">Royal Jelly Plus Avocado Oil, Lecithin, Vitamin B6 and Vitamin E. All produced in New Zealand. Helps the skin to be smoother and clearer. Boosting collagen production in the skin, royal jelly also helps to protect skin against the effects of ultraviolet radiation.</p>
                             </div>
-                            <button class="btn-visite">Visit Website</button>
+                            <a href="http://vgr.co.th/" class="btn-visite text-decoration-none text-dark" target="_blank">Visit Website</a>
                         </div>
                     </div>
                 </div>
@@ -54,10 +54,10 @@
                             <div class="item-box">
                                 <img src="{{ url('assets/images/brand-3.jpg') }}" alt="">
                                 <div class="desc mt-3">
-                                    <p><span class="ff-bold">MCTs 100%</span> สกัดจากน้ำมันมะพร้าวออร์แกนิก สกัดอย่างรวดเร็วและแปลงเป็นพลังงานสำหรับสมองและร่างกายของคุณ ยังช่วยให้ระบบเผาผลาญและสมองทำงานได้ดีขึ้น (ไม่มีส่วนผสมของน้ำมันปาล์ม)</p>
-                                    <p class="ff-bold">100% MCTs Extracted from organic coconut oil. Quickly digested and converted into energy for your brain and body. Help metabolism and the brain to work better.  (No palm oil added). Product made in Thailand.</p>
+                                    <p>น้ำมันเอมซีที สกัดจากน้ำมันมะพร้าวออร์แกนิค100% เป็นสารอาหารที่แปลงเป็นพลังงานสำหรับสมองและร่างกายของคุณทันที ช่วยกระตุ้นระบบเผาผลาญและการทำงานของสมองได้ดีขึ้น</p>
+                                    <p class="ff-bold">100% MCTs Extracted from organic coconut oil. Quickly digested and converted into energy for your brain and body. Help metabolism and the brain to work better.  (No palm oil added)</p>
                                 </div>
-                                <button class="btn-visite">Visit Website</button>
+                                <a href="https://rejuvis.co.th/mctoil" class="btn-visite text-decoration-none text-dark" target="_blank">Visit Website</a>
                             </div>
                         </div>
 
@@ -65,8 +65,8 @@
                             <div class="item-box">
                                 <img src="{{ url('assets/images/brand-4.jpg') }}" alt="">
                                 <div class="desc mt-3">
-                                    <p><span class="ff-bold">Helix  & Askur</span> ส่วนผสมที่ลงตัวของสุราคุณภาพสูงจากฝรั่งเศสและน้ำคุณภาพสูงจาก Icelandic Glacial Helix 7 และ Askur ได้รับความนิยม ค่า pH ที่สมดุลที่เหมาะสมที่ 7.4 ซึ่งไม่มีที่ไหนเคยทำมาก่อน ของการผสมผสานของสุราฝรั่งเศสและน้ำไอซ์แลนด์ ร่วมกันสร้าง DNA ของวอดก้าและจินระดับพรีเมียม</p>
-                                    <p class="ff-bold">With this perfect blend of high-quality spirit from France and high quality water Icelandic Glacial Helix 7 and Askur hits the optimal balanced pH of 7.4 This never before made, blend of French spirits and Icelandic water, together creates the DNA of this ultra premium vodka and gin. Product made in and bottled  in Iceland .</p>
+                                    <p>การผสมผสานการกลั่นจากฝรั่งเศษ รวมเข้ากับน้ำแร่บริสุทธ์จากไอซ์แลนด์ Icelandic Glacial แบบที่ไม่เคยมีมาก่อน  ก่อให้เกิด DNA สายพันธ์ใหม่ของ วอดก้า HELIX 7 และ จิน ASKUR  เป็นสุดยอดสุราระดับพรีเมี่ยม</p>
+                                    <p class="ff-bold">With this perfect blend of high-quality spirit from France and high quality water Icelandic Glacial Helix 7 and Askur hits the optimal balanced pH of 7.4 This never before made, blend of French spirits and Icelandic water, together creates the DNA of this ultra premium vodka and gin</p>
                                 </div>
                                 <button class="btn-visite">Visit Website</button>
                             </div>
@@ -84,10 +84,10 @@
                         <div class="col-md-6 position-relative">
                             <div class="position-absolute top-50 translate-middle-y">
                                 <p>
-                                    <span class="d-block"><strong class="ff-bold fs-2">VGR</strong> ได้แต่งตั้ง <strong class="ff-bold fs-2">Rejuvis</strong></span>
-                                    <strong class="d-block ff-bold">เป็นผู้จัดจำหน่ายผลิตภัณฑ์ทั้งหมดแต่เพียงผู้เดียว</strong>
+                                    <span class="d-block"><strong class="ff-bold fs-2">บริษัทวิเกอ จำกัด ได้แต่งตั้ง</strong></span>
+                                    <strong class="d-block ff-bold">บริษัท รีจูวิส จำกัด เป็นผู้จัดจำหน่ายผลิตภัณฑ์ทั้งหมดแต่เพียงผู้เดียว</strong>
                                 </p>
-                                <p class="ff-bold">Rejuvis Co., Ltd. has been appointed as the exclusive distributor at Thailand for our products</p>
+                                <p class="ff-bold">Rejuvis Co., Ltd. has been appointed as the exclusive distributor for Thailand for our products.</p>
                                 <button class="btn-visite">Visit Website</button>
                             </div>
                         </div>
