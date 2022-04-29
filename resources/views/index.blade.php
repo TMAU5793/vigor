@@ -41,7 +41,7 @@
                                 <p>Royal Jelly Plus Avocado Oil, Lecithin, Vitamin B6 and Vitamin E นมผึ้งแท้ๆ ผสมรวมกับน้ำมันอโวคาโด ผลิตในประเทศนิวซีแลนด์  เป็นสุดยอดอาหารเสริมที่ช่วยในเรื่องเสริมภูมิคุ้มกัน เสริมสร้างความแข็งแรงให้ผิวพรรณ</p>
                                 <p class="ff-bold">Royal Jelly Plus Avocado Oil, Lecithin, Vitamin B6 and Vitamin E. All produced in New Zealand. Helps the skin to be smoother and clearer. Boosting collagen production in the skin, royal jelly also helps to protect skin against the effects of ultraviolet radiation.</p>
                             </div>
-                            <a href="http://vgr.co.th/" class="btn-visite text-decoration-none text-dark" target="_blank">Visit Website</a>
+                            {{--  <a href="http://vgr.co.th/" class="btn-visite text-decoration-none text-dark" target="_blank">Visit Website</a>  --}}
                         </div>
                     </div>
                 </div>
@@ -68,7 +68,7 @@
                                     <p>การผสมผสานการกลั่นจากฝรั่งเศษ รวมเข้ากับน้ำแร่บริสุทธ์จากไอซ์แลนด์ Icelandic Glacial แบบที่ไม่เคยมีมาก่อน  ก่อให้เกิด DNA สายพันธ์ใหม่ของ วอดก้า HELIX 7 และ จิน ASKUR  เป็นสุดยอดสุราระดับพรีเมี่ยม</p>
                                     <p class="ff-bold">With this perfect blend of high-quality spirit from France and high quality water Icelandic Glacial Helix 7 and Askur hits the optimal balanced pH of 7.4 This never before made, blend of French spirits and Icelandic water, together creates the DNA of this ultra premium vodka and gin</p>
                                 </div>
-                                <button class="btn-visite">Visit Website</button>
+                                <a href="https://rejuvis.co.th/helix7" class="btn-visite text-decoration-none text-dark" target="_blank">Visit Website</a>
                             </div>
                         </div>
                     </div>
@@ -88,7 +88,7 @@
                                     <strong class="d-block ff-bold">บริษัท รีจูวิส จำกัด เป็นผู้จัดจำหน่ายผลิตภัณฑ์ทั้งหมดแต่เพียงผู้เดียว</strong>
                                 </p>
                                 <p class="ff-bold">Rejuvis Co., Ltd. has been appointed as the exclusive distributor for Thailand for our products.</p>
-                                <button class="btn-visite">Visit Website</button>
+                                <a href="https://rejuvis.co.th/" class="btn-visite text-decoration-none text-dark" target="_blank">Visit Website</a>
                             </div>
                         </div>
                     </div>
