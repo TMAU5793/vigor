@@ -14,8 +14,8 @@
             <div class="container">
                 <div class="position-absolute top-50 translate-middle-y banner-text text-white">
                     <h1 class="ff-bold">Who We Are</h1>
-                    <p>บริษัทวิเกอ จำกัด ตัวแทนจำหน่ายน้ำแร่ธรรมชาติ Icelandic Glacial จากประเทศไอซ์แลนด์ ในภูมิภาคเอเชียตะวันออกเฉียงใต้ เป็นผู้ผลิตและจำหน่ายอาหารเสริม ROYAL JELLY ของแท้จากประเทศนิวซีแลนด์, สินค้าแบรนด์ดัง คุณภาพดีจากทั่วทุกมุมโลกเราจัดและสรรหามาให้พร้อม OEM ให้ทุกผลิตภัณฑ์, Helix7 วอดก้า และ Askur จิน เป็นอีกผลิตภัณฑ์คุณภาพระดับพรีเมี่ยมที่ดีที่สุดในโลก มาถึงแล้วพร้อมจำหน่าย</p>
-                    <p>Vigor Limited is a representative of Southeast Asia that imports quality brands like Icelandic Glacial Natural Mineral water from Iceland, Royal Jelly Dietary supplements from New Zealand , OEM for Rejuvis MCT , Helix7 and Askur Yggdrasil. Our mission is to give you best premium quality products of the world.</p>
+                    <p>บริษัทวิเกอ จำกัด ตัวแทนจำหน่ายน้ำแร่ธรรมชาติ Icelandic Glacial จากประเทศไอซ์แลนด์ ในภูมิภาคเอเชียตะวันออกเฉียงใต้ เป็นผู้ผลิตและจำหน่ายอาหารเสริม ROYAL JELLY ของแท้จากประเทศนิวซีแลนด์, สินค้าแบรนด์ดัง คุณภาพดีจากทั่วทุกมุมโลกเราจัดและสรรหามาให้พร้อม OEM ให้ทุกผลิตภัณฑ์, Helix 7 วอดก้า และ Askur จิน เป็นอีกผลิตภัณฑ์คุณภาพระดับพรีเมี่ยมที่ดีที่สุดในโลก มาถึงแล้วพร้อมจำหน่าย</p>
+                    <p>Vigor Limited is a representative of Southeast Asia that imports quality brands like Icelandic Glacial Natural Mineral water from Iceland, Royal Jelly Dietary supplements from New Zealand , OEM for Rejuvis MCT , Helix 7 and Askur Yggdrasil. Our mission is to give you best premium quality products of the world.</p>
                 </div>
             </div>
         </section>
